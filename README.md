@@ -4,7 +4,9 @@ Sou um iniciante no universo da programação e entusiasta de tecnologia.
 - 🔭 Atualmente estou em transição de carreira;
 - 🌱 Tenho estudado JavaScript e Node.js.
 
+<div>
 ![Snake animation](https://github.com/ribeiro-fabio/ribeiro-fabio/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## Ferramentas e Tecnologias 🛠️
 
