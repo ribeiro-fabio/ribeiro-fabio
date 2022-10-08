@@ -1,14 +1,11 @@
 # Hello World! 👋
 Sou um iniciante no universo da programação e entusiasta de tecnologia.
 
-- 🔭 Atualmente estou em transição de carreira;
-- 🌱 Tenho estudado JavaScript e Node.js.
-
- ![Snake animation](https://github.com/ribeiro-fabio/ribeiro-fabio/blob/output/github-contribution-grid-snake.svg)
+- 🔭 Atualmente estou estudando Python para desenvolvimento Backend.
 
 ## Ferramentas e Tecnologias 🛠️
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" heigth="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" heigth="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" heigth="30"/>
           
 <div>
 <a href="https://github.com/ribeiro-fabio">
