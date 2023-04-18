@@ -9,8 +9,8 @@ Sou um iniciante no universo da programação e entusiasta de tecnologia.
           
 <div>
 <a href="https://github.com/ribeiro-fabio">
-<img height="120em" src="https://github-readme-stats-pi-pearl.vercel.app/api/top-langs/?username=ribeiro-fabio&layout=compact&langs_count=7&theme=onedark"/>
-<img height="120em" src="https://github-readme-stats-pi-pearl.vercel.app/api?username=ribeiro-fabio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats-ribeiro-fabio.vercel.app/api/top-langs/?username=ribeiro-fabio&layout=compact&langs_count=7&theme=onedark"/>
+<img height="120em" src="https://github-readme-stats-ribeiro-fabio.vercel.app/api?username=ribeiro-fabio&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
